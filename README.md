@@ -1,4 +1,4 @@
-# 100DaysOfCodeChallenge
+# 100 Days Of Code Challenge
 ### 100-Day Plan for Building Cool Projects with Node.js, MySQL, NestJS, and Express
 
 #### Week 1-2: Setup and Fundamentals
